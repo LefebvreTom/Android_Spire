@@ -35,4 +35,11 @@ Not finished at 100%, but working with an API
 ![image](https://user-images.githubusercontent.com/80623426/156887306-31de17d5-b648-47a8-a756-2038df651b0f.png)
 
 
+## Credit :
+Created by : CASSANELLI Alexandre, DUPUIS Thibaut, TALMON LARODERIE Basile, LEFEBVRE Tom
+
+April 2021, UQAC, CA
+
+> Made with *Android Studio 2020.3.1* \
+> Plateforms supported : Adroid \
 
